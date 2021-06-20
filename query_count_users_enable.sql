@@ -1,3 +1,5 @@
+-- In this query, We count users who have an active account in the active directory
+
 SELECT COUNT(*)
 	FROM	tblADusers
 	WHERE  tblADusers.Userdomain IN (

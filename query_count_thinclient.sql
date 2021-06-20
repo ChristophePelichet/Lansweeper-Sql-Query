@@ -1,3 +1,5 @@
+-- In this query, we only count the assets form the Manufacturer name
+
 SELECT COUNT(*)
 		
       From tblAssets 
