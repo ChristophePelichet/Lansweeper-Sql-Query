@@ -9,3 +9,5 @@ The problem I have encountered is that when you use Lansweeper in a service comp
 This is why I created a powershell script that was much easier to maintain at the query level. This script exported the data of my queries directly into a .csv file that I could send to anyone.
 
 These are simple queries based on my needs but they may help you create your own queries based on them.
+
+If you wish, the script is available here https://github.com/ChristophePelichet/LansweeperReporting
